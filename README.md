@@ -10,7 +10,7 @@ We trained the baseline model for the first 2 tasks
 ### Setup:
 1. Clone this repository
    ```
-   git clone https://github.com/[insert_here]
+   git clone https://github.com/innerArsenio/MICCAI-IUGC-2024.git
    ```
 2. Install requirements:
    

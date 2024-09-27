@@ -1,6 +1,6 @@
 # IUGC MICCAI challenge
 
-This is the official repository for the paper "insert_name"
+This is the official repository for the paper "A Multi-Task Approach with Weak Supervision for Improved Intrapartum Ultrasound Measurements"
 
 
 We trained the baseline model for the first 2 tasks

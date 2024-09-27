@@ -26,11 +26,11 @@ We trained the baseline model for the first 2 tasks
 3. Download data
    
    PSFH:
-   - download data from 'insert_here'
+   - download data from the source
   
   
    JNU-IFM:
-   - download data from 'insert_here'
+   - download data from the source
 
    Merge the two datasets into one folder
 
